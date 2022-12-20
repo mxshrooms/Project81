@@ -1,0 +1,11 @@
+body {
+    text-align:center;
+}
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top:10px;
+    margin-bottom:15px;
+}
+hr {
+    width:30%;
+}
